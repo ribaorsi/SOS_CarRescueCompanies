@@ -115,6 +115,7 @@ body {
     position: relative;
 
     width: 390px;
+    min-height: 260px;
     margin: 30px;
     background-color: #1b47b2;
 }
@@ -156,7 +157,8 @@ body {
 }
 
 .text {
-    padding-bottom: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
     color: #ffeedf;
 
     font-size: 18px;
