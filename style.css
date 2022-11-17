@@ -123,15 +123,15 @@ body {
 .sub {
     display: flex;
     position:absolute;
-    top: -25px;
-    left: -25px;
+    top: -30px;
+    left: -30px;
     padding: 10px;
 
     justify-content: center;
     align-items: center;
 
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     border: 0.15rem solid #1b47b2;
     border-radius: 50%;
    
