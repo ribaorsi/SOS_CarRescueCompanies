@@ -179,3 +179,24 @@ body {
 
     border: 0.15em solid #1b47b2
 }
+
+.card button .material-icons.md-36 {
+    
+    position: absolute;
+    top: 7px;
+    right: 7px;
+
+    color: #1b47b2;
+    font-size: 36px; 
+}
+
+button:hover {
+    background-color: #1b47b2;
+    color:#ffeedf;
+    border: 0.15em solid #ffeedf;
+    
+}
+
+button:hover .material-icons.md-36 {
+    color:#ffeedf;
+}
