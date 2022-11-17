@@ -139,3 +139,25 @@ body {
     font-size: 24px;
     font-weight: 400;
 }
+
+.textcontainer {
+    margin: 30px;
+}
+
+.title {
+    padding-bottom: 10px;
+    min-height: 90px;
+    
+    color: #ffeedf;
+    border-bottom: 0.1rem solid #ffeedf;
+
+    font-size: 36px;
+}
+
+.text {
+    padding-bottom: 20px;
+    color: #ffeedf;
+
+    font-size: 18px;
+    font-weight: 700;
+}
